@@ -34,7 +34,7 @@ public class Chef_and_Pairs {
 			    System.out.println(Count);
 			}
 	        
-	    } catch(Exception e) {
+	    } catch(Exception e) {//this is to catch the exceptions
 	        System.out.println(e);
 	    } finally {
 	    }
